@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hi, I'm Cyril 👋
+### A passionate fullstack web developper from Montpellier, France 
 
-<!--
-**Cylecq/Cylecq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📫 How to reach me: leclercq.cyril06@gmail.com
 
-Here are some ideas to get you started:
+## Languages
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,bash&theme=light)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack & Tools
+### Frontend
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,sass,tailwind&theme=light)](https://skillicons.dev)
+### Backend
+[![My Skills](https://skillicons.dev/icons?i=nodejs,bun,express,graphql,firebase,mysql,postgres&theme=light)](https://skillicons.dev)
+### DevOps
+[![My Skills](https://skillicons.dev/icons?i=docker,linux,nginx&theme=light)](https://skillicons.dev)
+### Other
+[![My Skills](https://skillicons.dev/icons?i=git,jest,figma&theme=light)](https://skillicons.dev)
