@@ -1,7 +1,7 @@
 # Hi, I'm Cyril 👋
 ### A passionate fullstack web developper from Montpellier, France 
 
-- 📫 How to reach me: leclercq.cyril06@gmail.com
+- 📫 How to reach me: contact@cyril-leclercq.com
 
 ## Languages
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,bash&theme=light)](https://skillicons.dev)
